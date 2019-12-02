@@ -1,4 +1,4 @@
-﻿# tutorials
+﻿# Tutorials
 [The New Boston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
 * [HTML5](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 * [jQuery](https://www.youtube.com/playlist?list=PL6B08BAA57B5C7810)
